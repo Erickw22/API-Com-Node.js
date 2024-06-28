@@ -68,7 +68,7 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 ## 📄 Licença
 
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md]=(https://github.com/Erickw22/API-Com-Node.js/blob/main/LICENSE) para detalhes.
+Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md]=(https://github.com/Erickw22/API-Com-Node.js/blob/Erickw22-patch-1/LICENSE) para detalhes.
 
 ## 🎁 Expressões de gratidão
 
