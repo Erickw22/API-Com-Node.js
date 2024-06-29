@@ -61,8 +61,6 @@ EU [Erickw22](https://github.com/Erickw22) para controle de versão. Para as ver
 
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
 * **Erickw22** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/Erickw22)
 * **Erickw22** - *Documentação* - [fulanodetal](https://github.com/Erickw22)
 
